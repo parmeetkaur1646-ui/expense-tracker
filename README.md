@@ -139,13 +139,3 @@ This project improved my understanding of **JavaScript fundamentals, DOM manipul
 **Parmeet Kaur**
 
 BCA Student
-Frontend Developer Intern – SpireX Foundation
-
----
-
-## 📄 Internship Task
-
-**SpireX Foundation – Frontend Development Internship**
-
-**Task 9:** Expense Tracker
-**Date:** 13/09/2026
